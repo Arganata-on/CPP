@@ -1,5 +1,9 @@
-/*Soal: Buatlah program C++ yang meminta pengguna memasukkan dua angka.
-Kemudian menampilkan hasil penjumlahan, pengurangan, perkalian, dan pembagian dari kedua angka tersebut.*/
+/*Soal:
+
+Buatlah program C++ yang meminta pengguna memasukkan dua angka.
+
+Tampilkan hasil penjumlahan, pengurangan, perkalian, dan pembagian dari kedua angka tersebut.*/
+
 #include <iostream>
 using namespace std;
 int main() {

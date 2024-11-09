@@ -1,6 +1,11 @@
-/*Soal: Buatlah program C++ yang meminta pengguna memasukkan sebuah angka.
-Periksa apakah angka tersebut genap atau ganjil. Tampilkan hasil
-pemeriksaannya.*/
+/*Soal:
+
+Buatlah program C++ yang meminta pengguna memasukkan sebuah angka.
+
+Periksa apakah angka tersebut genap atau ganjil.
+
+Tampilkan hasil pemeriksaannya.*/
+
 #include <iostream>
 using namespace std;
 int main() {
